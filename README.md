@@ -12,13 +12,13 @@ This work adds to the existing literature on public transit externalities.
 Algo de lo que podrás recrear con este código: 
 
 Resultados con Control Completo
-[a](imgs/complete_map.png)	
-[b](imgs/complete_1.png)
+![a](imgs/complete_map.png)	
+![b](imgs/complete_1.png)
 
 Resultados con control haciendo uso de matching:
 
-[c](imgs/matched_map.png)
-[d](imgs/complete_2.png)
+![c](imgs/matched_map.png)
+![d](imgs/complete_2.png)
 
 Para ello los inputs, que son algo pesados, son los siguientes:
 
